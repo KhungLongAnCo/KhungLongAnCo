@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 I'm Luan. I'm Developer from Viet Nam
+I work at VMO as web developer.
 
 <!--
 **KhungLongAnCo/KhungLongAnCo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
