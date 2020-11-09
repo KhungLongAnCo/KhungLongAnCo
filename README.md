@@ -1,6 +1,7 @@
 ### Hi there 👋 I'm Luan. I'm Developer from Viet Nam
 I work at VMO as web developer.
-[Markdown](https://cdn.unwire.hk/wp-content/uploads/2015/03/joke-comic_sleep-cycle-694x416.jpg)
+
+![alt](https://cdn.unwire.hk/wp-content/uploads/2015/03/joke-comic_sleep-cycle-694x416.jpg)
 
 
 <!--
