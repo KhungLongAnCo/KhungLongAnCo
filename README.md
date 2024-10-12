@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Luan. I'm Developer from Viet Nam
-Since 4 years I'm working as Front-end developer.
-My strong are Javascript, React JS, Next JS ...
+I'm working as Full-stack web developer.
+My strong are Javascript, React JS, Next JS, Node JS ...
 
 ![alt](https://cdn.unwire.hk/wp-content/uploads/2015/03/joke-comic_sleep-cycle-694x416.jpg)
 
